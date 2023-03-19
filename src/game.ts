@@ -1,11 +1,5 @@
 import { Light } from './engine/light';
-import { Button } from './components/ui/button';
-import { Rectangle } from './components/drawables/shapes/rectangle';
-import { Rect } from './components/so/rect';
-import { Color } from './components/so/color';
-import { Text } from './components/drawables/text';
 import { Globals } from './globals';
-import { Progress } from './components/ui/progress';
 import { Loading } from './menus/loading';
 import { Menu } from './menus/menu';
 

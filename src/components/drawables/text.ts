@@ -1,5 +1,4 @@
 import { Drawable } from '../../engine/drawable';
-import { Color } from '../so/color';
 
 /**
  * Inject text properties
